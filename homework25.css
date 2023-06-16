@@ -1,0 +1,33 @@
+.div{
+    display: flex;
+    margin-left: 100px;
+}
+
+.div1{
+    display: flex;
+    margin-left: 99px;
+}
+
+
+.div4{
+    display: flex;
+    margin-left: 99px;
+}
+
+.box{
+    width:363px;
+    height: 112px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.div2{
+    display: flex;
+    margin-left: 100px;
+}
+.div5{
+    display: flex;
+    margin-left: 100px;
+}
